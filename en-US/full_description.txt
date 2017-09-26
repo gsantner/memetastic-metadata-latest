@@ -1,5 +1,4 @@
-😌 <b>Simple Meme Creator</b> which allows to download most common templates. Completly ad-free,
-and adds no watermarks.<br/>
+😌 <b>Simple Meme Creator</b> . Completly ad-free and adds no watermarks.<br/>
 <br/>
 Memes can be created from templates downloaded from the MemeTastic archive, 
 from pictures shared into the app and pictures from gallery & camera.
